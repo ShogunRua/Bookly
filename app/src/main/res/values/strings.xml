@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BooklyTest</string>
+    <string name="you_can_also_like">You can also like</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="symbol">€</string>
+    <string name="symbol_end">)</string>
+    <string name="symbol_start">(</string>
+    <string name="button_free_preview">Free preview</string>
+    <string name="content_description_logo">Logo</string>
+    <string name="content_description_search">Button search</string>
+    <string name="content_description_book_logo">Image logo of book</string>
+    <string name="content_description_cart">Button cart</string>
+</resources>
